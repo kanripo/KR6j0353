@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:47.389142
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:56
 #+TITLE: 佛說善法方便陀羅尼經
 #+PROPERTY: CBETA_ID T20n1137
 #+PROPERTY: ID KR6j0353
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1137
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0353_T_000-0580a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0353_T_001-0580a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1137[Nos.1138-1140]¶
-
- 佛說善法方便陀羅尼經¶
+No. 1137 [Nos. 1138-1140]¶
+佛說善法方便陀羅尼經¶
 ¶
 失譯人名今附東晉錄¶
 
